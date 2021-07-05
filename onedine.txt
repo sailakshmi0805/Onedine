@@ -4,3 +4,4 @@ Onedine files..
 3. Cart page
 4. Payment page 
 5.Confirmation page.
+6.Cubside flow ,online flow and walkup flow
